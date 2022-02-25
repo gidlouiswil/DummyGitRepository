@@ -1,2 +1,2 @@
 # GitLearningRepository
-A repository used for GIT learning.
+A repository used for Git learning.
